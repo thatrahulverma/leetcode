@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Lord-Rahul/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Lord-Rahul/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Lord-Rahul/leetcode/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lord-Rahul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Lord-Rahul/leetcode/tree/master/0139-word-break) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Lord-Rahul/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Lord-Rahul/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lord-Rahul/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
